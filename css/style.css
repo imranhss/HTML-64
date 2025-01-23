@@ -1,0 +1,34 @@
+
+
+body{
+    background-color: beige;
+}
+
+input[type=submit]{
+
+    background-color: aquamarine;
+}
+
+input[type=password]{
+
+    background-color: rgb(182, 122, 122);
+}
+
+
+.textfield{
+    background-color: brown;
+}
+
+#texarea{
+    background-color: rgb(255, 119, 0);
+}
+
+.masud{
+
+    background-color: blue;
+}
+
+#dob{
+
+    background-color: blueviolet;
+}
